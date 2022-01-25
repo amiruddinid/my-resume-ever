@@ -8,6 +8,7 @@ import './side-bar-rtl.vue';
 import './left-right-rtl.vue';
 import './oblique-rtl.vue';
 import './creative.vue';
+import './creative-custom.vue';
 import './cool.vue';
 import './cool-rtl.vue';
 import './cool-rtl2.vue';
